@@ -1,0 +1,15 @@
+Now listening on: https://localhost:7118
+Now listening on: http://localhost:5066
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3
+Path:/
+Path:/
+Path:/
+Now listening on: https://localhost:7118
+Now listening on: http://localhost:5066
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3
+Time:29.05.2023 22:37:08 - Path:/ - IP:::1
+Time:29.05.2023 22:46:53 - Path:/ - IP:::1

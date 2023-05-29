@@ -1,0 +1,54 @@
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\appsettings.Development.json
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\appsettings.json
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\conf.json
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.exe
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.deps.json
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.runtimeconfig.json
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.dll
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.pdb
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.csproj.AssemblyReference.cache
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.AssemblyInfoInputs.cache
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.AssemblyInfo.cs
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.csproj.CoreCompileInputs.cache
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.MvcApplicationPartsAssemblyInfo.cache
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.AspDotNetLab3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.build.AspDotNetLab3.props
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspDotNetLab3.props
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspDotNetLab3.props
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.build.json
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.development.json
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\scopedcss\bundle\AspDotNetLab3.styles.css
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.dll
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\refint\AspDotNetLab3.dll
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.pdb
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.genruntimeconfig.cache
+D:\Worker\Desktop\Нова папка (4)\lab3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\ref\AspDotNetLab3.dll
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\bin\Debug\net7.0\appsettings.json
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\bin\Debug\net7.0\conf.json
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.exe
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.deps.json
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.runtimeconfig.json
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.dll
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.pdb
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.csproj.AssemblyReference.cache
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.AssemblyInfoInputs.cache
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.AssemblyInfo.cs
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.csproj.CoreCompileInputs.cache
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.AspDotNetLab3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.build.AspDotNetLab3.props
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspDotNetLab3.props
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspDotNetLab3.props
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\scopedcss\bundle\AspDotNetLab3.styles.css
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.dll
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\refint\AspDotNetLab3.dll
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.pdb
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.genruntimeconfig.cache
+C:\Users\Worker\source\repos\AspDotNetLab1\AspDotNetLab3\AspDotNetLab3\obj\Debug\net7.0\ref\AspDotNetLab3.dll
